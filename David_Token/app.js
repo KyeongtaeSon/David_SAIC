@@ -1,4 +1,4 @@
-let imageLinks = ["https://son.github.io/image 내 주소적기"]
+let imageLinks = ["https://kyeongtaeson.github.io/David_SAIC/David_Token/img/1.JPG"]
 
 if(ethereum){
     ethereum.autoRefreshOnNetworkChange = false;
