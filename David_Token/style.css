@@ -35,8 +35,9 @@ margin: 2vmin auto;
 .minted-image__title{
  width:  50vmin;
  height: 50vmin;
- /* background: blue; */
- border: 5px solid rgb(30, 135, 255);
+ background: lightslategray;
+ opacity: .5;
+ border: 5px solid gray;
  
 
 }
@@ -55,15 +56,15 @@ margin: 2vmin auto;
     color:white;
     background: black;
     margin:2vmin auto;
-    border-left: 2vmin solid rgb(30, 135, 255);
-    border-top: 2vmin solid rgb(30, 135, 255);
-    border-right:2vmin solid rgb(10, 135, 255);
-    border-bottom:2vmin solid rgb(10, 135, 255);
+    border-left: 2vmin solid rgb(0, 41, 117);
+    border-top: 2vmin solid rgb(0, 41, 117);
+    border-right:2vmin solid rgb(30, 135, 255);
+    border-bottom:2vmin solid rgb(30, 135, 255);
 }
 
 #generate-image:active{
-    border-left: 2vmin solid rgb(10, 135, 255);
-    border-top: 2vmin solid rgb(10, 135, 255);
+    border-left: 2vmin solid rgb(0, 41, 117);
+    border-top: 2vmin solid rgb(0, 41, 117);
     border-right:2vmin solid rgb(30, 135, 255);
     border-bottom:2vmin solid rgb(30, 135, 255);
 }
@@ -99,7 +100,7 @@ margin: 2vmin auto;
 #owned__top-bar{
     padding: 1vmin clamp(0.75em,2vmin,3em);
     position: sticky;
-    top:0;
+    top:10;
     background:white;
     display:flex;
     justify-content:space-between;
@@ -125,7 +126,7 @@ margin: 2vmin auto;
 
   .container {
     width: 70%;
-    margin-top:20%;
+
     margin: auto;
     overflow: hidden;
   }
@@ -158,11 +159,11 @@ margin: 2vmin auto;
       display: grid;
       row-gap: 20px;
     }
-    .imageFlex4 {
+    .imageFelx4 {
         display: grid;
         row-gap: 20px;
       }
-      .imageFlex5{
+    .imageFlex5{
         display: grid;
         row-gap: 20px;
       }
