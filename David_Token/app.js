@@ -1,4 +1,24 @@
-let imageLinks = ["https://kyeongtaeson.github.io/David_SAIC/David_Token/img/1.JPG"]
+let imageLinks = ["https://kyeongtaeson.github.io/David_SAIC/David_Token/img/1.JPG",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/2.JPG",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/3.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/4.JPG",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/5.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/6.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/7.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/8.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/9.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/10.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/11.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/12.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/13.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/14.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/15.JPG",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/16.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/17.JPG",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/18.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/19.jpg",
+"https://kyeongtaeson.github.io/David_SAIC/David_Token/img/20.jpg"
+]
 
 if(ethereum){
     ethereum.autoRefreshOnNetworkChange = false;
